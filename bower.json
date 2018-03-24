@@ -1,0 +1,25 @@
+{
+  "name": "beginner",
+  "description": "Dynamic broadcast graphics rendered in a browser",
+  "main": "",
+  "authors": [
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "nodecg-bundle"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gsap": "^1.20.4",
+    "paper-button": "^2.1.0",
+    "polymer": "^2.5.0"
+  }
+}

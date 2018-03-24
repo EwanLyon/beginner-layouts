@@ -1,0 +1,57 @@
+{
+  "name": "beginner",
+  "version": "0.0.0",
+  "description": "Dynamic broadcast graphics rendered in a browser",
+  "homepage": "http://nodecg.com/",
+  "author": {
+    "name": "Club Who",
+    "email": "clubwhomc@gmail.com",
+    "url": "N/A"
+  },
+  "files": [
+    "dashboard",
+    "graphics",
+    "extension.js",
+    "extension"
+  ],
+  "keywords": [
+    "nodecg-bundle"
+  ],
+  "nodecg": {
+    "compatibleRange": "0.9.10",
+    "dashboardPanels": [
+      {
+        "name": "score",
+        "title": "Score",
+        "width": 2,
+        "file": "score.html",
+        "headerColor": "#9f9bbd"
+      },
+      {
+        "name": "scorePolymer",
+        "title": "Score Polymer",
+        "width": 2,
+        "file": "scorePolymer.html",
+        "headerColor": "#9f9bbd"
+      }
+    ],
+    "graphics": [
+      {
+        "file": "basic/score.html",
+        "width": 50,
+        "height": 50
+      },
+      {
+        "file": "gsap/gsap.html",
+        "width": 50,
+        "height": 50
+      },
+      {
+        "file": "polymer/polymer.html",
+        "width": 50,
+        "height": 50
+      }
+    ]
+  },
+  "repository": "https://github.com/nodecg/nodecg.git"
+}

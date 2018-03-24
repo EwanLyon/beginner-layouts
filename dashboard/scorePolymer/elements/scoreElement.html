@@ -1,0 +1,24 @@
+<link rel="import" href="../../../bower_components/polymer/polymer-element.html">
+<dom-module id="basic-polymer">
+    <template>
+        <style>
+            #btnSubtract, #btnAdd{
+                color: white;
+            }
+
+            #btnSubtract{
+                background-color: var(--paper-red-500);
+            }
+
+            #btnAdd{
+                background-color: var(--paper-green-500);
+            }
+        </style>
+
+    <paper-button raised onclick="subtract()" id="btnSubtract">-1</paper-button>
+    <paper-button raised onclick="add()" id="btnAdd">+1</paper-button>
+
+    </template>
+
+<script src="scoreElement.js"></script>
+</dom-module> 
