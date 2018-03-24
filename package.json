@@ -31,7 +31,7 @@
         "name": "scorePolymer",
         "title": "Score Polymer",
         "width": 2,
-        "file": "scorePolymer.html",
+        "file": "scorePolymer/scorePolymer.html",
         "headerColor": "#9f9bbd"
       }
     ],
