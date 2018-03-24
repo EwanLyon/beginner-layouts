@@ -13,5 +13,6 @@ Coming soon
 
 ## Installation
 
-1. `cd nodecg` and run `nodecg install Clubwho/beginner-layouts`
-2. Run the nodecg server: `node index.js` or `nodecg start`
+1. Install [NodeCG](http://github.com/nodecg/nodecg)
+2. `cd nodecg` and run `nodecg install Clubwho/beginner-layouts`
+3. Run the nodecg server: `node index.js` or `nodecg start`
