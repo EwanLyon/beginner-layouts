@@ -1,5 +1,5 @@
 # Beginner Layouts
-**DO NOT USE POLYMER WHEN STARTING A NEW BUNDLE. IT IS NOT RECOMMENDED AS IT IS BECOMMING DEPRECATED**
+**DO NOT USE POLYMER WHEN STARTING A NEW BUNDLE. IT IS NOT RECOMMENDED AS IT IS BECOMING DEPRECATED**
 
 This is a tutorial and example based layout used to teach people about [NodeCG](http://github.com/nodecg/nodecg).
 
