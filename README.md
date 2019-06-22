@@ -1,5 +1,6 @@
 # Beginner Layouts
 **DO NOT USE POLYMER WHEN STARTING A NEW BUNDLE. IT IS NOT RECOMMENDED AS IT IS BECOMMING DEPRECATED**
+
 This is a tutorial and example based layout used to teach people about [NodeCG](http://github.com/nodecg/nodecg).
 
 This layout goes over 3 levels that assist when looking at more advanced layouts such as [AGDQ 2018](https://github.com/GamesDoneQuick/agdq18-layouts) and [Tip of the Hats 2017](https://github.com/TipoftheHats/toth5-overlay).
